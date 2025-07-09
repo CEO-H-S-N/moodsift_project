@@ -1,6 +1,6 @@
 # MoodSift - AI-Powered Review Sentiment Analyzer
 
-![Project Banner](https://via.placeholder.com/800x200?text=MoodSift+Sentiment+Analysis)
+
 
 ## 📌 Brief Summary
 MoodSift detects **nuanced emotions** (sarcasm, frustration, etc.) in social media/product reviews using a fine-tuned RoBERTa model (85% accuracy). It automates data collection from Reddit/Twitter, analyzes sentiment, and visualizes trends via an interactive dashboard.
